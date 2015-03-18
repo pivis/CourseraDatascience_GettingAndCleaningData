@@ -104,7 +104,7 @@ Variables for Accelerometer reading values related to Body acceleration have **B
 
 Variables for Gyroscope reading related to Body (which are passing the filter) have **BodyGyroscope** part in them.
 
-Ending part of **_X**, **_Y** or **_Z** is related to the corresponding axis readings. If variable name has **Magnitude** instead it means the variable are calculated for the vector magnitude values.
+Ending part of **_X**, **_Y** or **_Z** is related to the corresponding axis readings. If variable name has **Magnitude** instead it means the variable is calculated for the vector magnitude values.
 
 The body linear acceleration and angular velocity were derived in time to obtain variables with **Jerk** part in their names.
 

@@ -4,6 +4,7 @@ Raw data for this course project is [Human Activity Recognition Using Smartphone
 This raw data contains smartphones' Accelerometer and Gyroscope measurements for the selected individuals and their activities.
 
 The raw data is processed by **run_analysis.R** script to form a tidy dataset with the following requirements met:
+
 1. Training and test data is merged to create one data set.
 2. Only the measurements on the mean and standard deviation for each measurement are extracted.
 3. Descriptive activity names are used to name the activities in the data set.
